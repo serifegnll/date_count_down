@@ -15,13 +15,13 @@ class CountDownText extends StatefulWidget {
       this.longDateName = false,
       this.style,
       this.showLabel = false,
-      this.daysTextLong = " days ",
-      this.hoursTextLong = " hours ",
-      this.minutesTextLong = " minutes ",
-      this.secondsTextLong = " seconds ",
-      this.daysTextShort = " d ",
-      this.hoursTextShort = " h ",
-      this.minutesTextShort = " m ",
+      this.daysTextLong = " Gün ",
+      this.hoursTextLong = " Saat ",
+      this.minutesTextLong = " Dakika ",
+      this.secondsTextLong = " Saniye ",
+      this.daysTextShort = " g ",
+      this.hoursTextShort = " s ",
+      this.minutesTextShort = " d ",
       this.secondsTextShort = " s ",})
       : super(key: key);
 
